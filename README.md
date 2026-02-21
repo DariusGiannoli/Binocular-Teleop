@@ -1,3 +1,3 @@
 # Binocular Vision project 
 
-mjpython mujoco_teleop.py
+python mujoco_teleop.py
