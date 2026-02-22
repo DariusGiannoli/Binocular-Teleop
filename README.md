@@ -47,12 +47,3 @@ This project presents a low-cost, high-fidelity infrastructure for collecting ex
 * **Robot Model:** [DeepMind MuJoCo Menagerie - LEAP Hand](https://github.com/google-deepmind/mujoco_menagerie)
 * **Environment:** MuJoCo Physics Simulator
 * **Dependencies:** Python 3.10+, OpenCV, MediaPipe, ZED SDK, NumPy
-
----
-
-## 5. Quick Start
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/binocular-teleop.git](https://github.com/yourusername/binocular-teleop.git)
-   cd binocular-teleop
